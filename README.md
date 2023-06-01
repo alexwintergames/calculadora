@@ -11,7 +11,7 @@ Projeto de uma calculadora binária, hexadecimal e decimal.
 >Texto
 
 
->Textos básicos do git<
+>Textos básicos do git
 ```
 git add .
 git commit -m ""
